@@ -18,7 +18,6 @@
 ### Restaurant Data
 
 #### LEVEL 1
-
 ### Task 1 : Data Exploration and Preprocessing
 - Explore the dataset and identify the number of rows and columns.
 - Check for missing values in each column and handle them accordingly. Perform data type conversion if necessary.
@@ -34,7 +33,6 @@
 - Analyze the distribution of restaurants across different cities or countries. Determine if there is any correlation between the restaurant's location and its rating.
 
 LEVEL 2
-
 ### Task 1 : Table Booking and Online Delivery
 - Determine the percentage of restaurants that offer table booking and online delivery.
 - Compare the average ratings of restaurants with table booking and those without.
@@ -49,7 +47,6 @@ LEVEL 2
 - Create new features like "Has Table Booking" or "Has Online Delivery" by encoding categorical variables.
 
 LEVEL 3
-
 ### Task 1 : Predictive Modeling
 - Build a regression model to predict the aggregate rating of a restaurant based on available features.
 - Split the dataset into training and testing sets and evaluate the model's performance using appropriate metrics.
